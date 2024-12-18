@@ -7,7 +7,8 @@
 제주도의 1차 산업이 직면한 고령화와 일손 부족 문제를 해결하기 위해 개발된 서비스로,<br />
 장기 제주 여행자에게 관광과 용돈벌이를 동시에 할 수 있도록 돕고<br />1차 산업 종사자에게는 노동력을 제공받을 수 있고자 하는 서비스입니다.
 
-# 기여자
+# TEAM
+`제주빵빵코딩단`의 멤버
 |이재준|김재형|김지혁|김민수|정그린|
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/161971295?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129487583?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="150" height="150"/>|
