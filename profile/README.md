@@ -8,9 +8,11 @@
 장기 제주 여행자에게 관광과 용돈벌이를 동시에 할 수 있도록 돕고<br />1차 산업 종사자에게는 노동력을 제공받을 수 있고자 하는 서비스입니다.
 
 # 기여자
-|<img src="https://avatars.githubusercontent.com/u/161971295?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129487583?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="150" height="150"/>|
+|이재준|김재형|김지혁|김민수|정그린|
 |:-:|:-:|:-:|:-:|:-:|
-|이재준<br/>(기획자 / 프로젝트 관리)<br/>[@MoringTiger](https://github.com/MoringTiger)|김재형<br/>(백엔드 개발자 / 서버개발 및 클라우드 배포 운영 담당) <br/>[@21divcert](https://github.com/21divcert)|김지혁<br/>(백엔드, 서버 개발자, 클라우드 배포 운영)<br/>[@kjeok00](https://github.com/kjeok00)|김민수<br/>(프론트엔드 개발자 / 프론트 개발, 컴포넌트 관리)<br/>[@kimminsu31415](https://github.com/kimminsu31415)|정그린<br/>(디자인, 퍼블리싱 및 프론트 개발자)<br/>[@Green-JEONG](https://github.com/Green-JEONG)|
+|<img src="https://avatars.githubusercontent.com/u/161971295?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129487583?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="150" height="150"/>|
+|[@MoringTiger](https://github.com/MoringTiger)|[@21divcert](https://github.com/21divcert)|[@kjeok00](https://github.com/kjeok00)|[@kimminsu31415](https://github.com/kimminsu31415)|[@Green-JEONG](https://github.com/Green-JEONG)|
+|(기획자)<br />프로젝트 관리|(백엔드 개발자)<br />서버개발 및 클라우드 배포 운영 담당|(백엔드, 서버 개발자)<br />클라우드 배포 운영|(프론트엔드 개발자)<br />프론트 개발, 컴포넌트 관리|(프론트엔드 개발자)<br />디자인, 퍼블리싱 및 프론트 개발|
 
 # 기술 스택
 <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/react.png" alt="react" height="50px"/>
