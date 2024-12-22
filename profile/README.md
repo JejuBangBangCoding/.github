@@ -20,3 +20,9 @@
 <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
 <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="60px"/>
 <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
+<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/django.png" alt="django" height="50px"/>
+<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/tailwindcss.png" alt="tailwindcss" height="50px"/>
+<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/amazonec2.png" alt="amazonec2" height="50px"/>
+<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/route53.png" alt="route53" height="50px"/>
+<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github.png" alt="github" height="50px"/>
+<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/githubaction.png" alt="githubaction" height="50px"/>
