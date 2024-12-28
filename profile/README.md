@@ -26,18 +26,6 @@
 ## 시연
 https://github.com/user-attachments/assets/745755b9-4d4a-40c2-aa07-4b16113af618
 
-## 기술 스택
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/react.png" alt="react" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="60px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/django.png" alt="django" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/tailwindcss.png" alt="tailwindcss" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/amazonec2.png" alt="amazonec2" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/route53.png" alt="route53" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github.png" alt="github" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/githubaction.png" alt="githubaction" height="50px"/>
-
 ## 수상
 ![IMG_1629](https://github.com/user-attachments/assets/fb081857-c155-4988-b1a6-ab8dd6d311f9)
 ![IMG_1627](https://github.com/user-attachments/assets/e9cdcb38-4f13-4ecd-a26b-2f8e9116e95f)
