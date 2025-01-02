@@ -10,7 +10,7 @@
 `제주빵빵코딩단`의 멤버
 |이재준|김재형|김지혁|김민수|정그린|
 |:-:|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/161971295?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129487583?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/161971295?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/129487583?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="100" height="100"/>|
 |[@MoringTiger](https://github.com/MoringTiger)|[@21divcert](https://github.com/21divcert)|[@kjeok00](https://github.com/kjeok00)|[@kimminsu31415](https://github.com/kimminsu31415)|[@Green-JEONG](https://github.com/Green-JEONG)|
 |(기획자)<br />프로젝트 관리|(백엔드 개발자)<br />서버개발 및 클라우드 배포 운영 담당|(백엔드, 서버 개발자)<br />클라우드 배포 운영|(프론트엔드 개발자)<br />프론트 개발, 컴포넌트 관리|(프론트엔드 개발자)<br />디자인, 퍼블리싱 및 프론트 개발|
 
