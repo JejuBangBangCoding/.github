@@ -35,5 +35,6 @@
 https://github.com/user-attachments/assets/745755b9-4d4a-40c2-aa07-4b16113af618
 
 ## 수상
-![IMG_1686](https://github.com/user-attachments/assets/eeeee317-e453-498d-9a90-066bb8a3aa25)
-![IMG_1627](https://github.com/user-attachments/assets/bf285a4d-79da-4ff9-853f-107a30166c48)
+<img src="https://github.com/user-attachments/assets/5f22e056-6e9e-4ad2-a2d6-68c2dd853cb7" width="500"/>
+<img src="https://github.com/user-attachments/assets/213a69a6-a3c6-4bad-ac0a-90e3bf63a4a3" width="350"/>
+
