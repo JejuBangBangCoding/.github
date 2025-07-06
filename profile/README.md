@@ -6,7 +6,7 @@
 
 제주도의 1차 산업이 직면한 고령화와 일손 부족 문제를 해결하기 위해 개발된 서비스로, 장기 제주 여행자에게 관광과 용돈벌이를 동시에 할 수 있도록 돕고 1차 산업 종사자에게는 노동력을 제공받을 수 있고자 하는 서비스입니다.
 
-## TEAM
+## 🤼‍♂️ TEAM
 `제주빵빵코딩단`의 멤버
 |이재준|김재형|김지혁|김민수|정그린|
 |:-:|:-:|:-:|:-:|:-:|
@@ -14,7 +14,7 @@
 |[@MoringTiger](https://github.com/MoringTiger)|[@21divcert](https://github.com/21divcert)|[@kjeok00](https://github.com/kjeok00)|[@kimminsu31415](https://github.com/kimminsu31415)|[@Green-JEONG](https://github.com/Green-JEONG)|
 |(기획자)<br />프로젝트 관리|(백엔드 개발자)<br />서버개발 및 클라우드 배포 운영 담당|(백엔드, 서버 개발자)<br />클라우드 배포 운영|(프론트엔드 개발자)<br />프론트 개발, 컴포넌트 관리|(프론트엔드 개발자)<br />디자인, 퍼블리싱 및 프론트 개발|
 
-## 설명
+## 💡 설명
 ![Group 737441](https://github.com/user-attachments/assets/b970a29c-2925-47ef-a557-156f476789a2)
 ![Group 737444](https://github.com/user-attachments/assets/b7a07a1a-b351-4f3c-a75b-0ea9ec2a1613)
 ![Group 737445](https://github.com/user-attachments/assets/14504b76-c457-4ba6-b004-8defff99eea7)
@@ -31,10 +31,11 @@
 ![image](https://github.com/user-attachments/assets/a4f8ddd3-e044-44c9-9737-95866391067f)
 ![image](https://github.com/user-attachments/assets/f4a2dc47-6979-4d90-b131-5be7e095ea95)
 
-## 시연
+## 🎥 시연 영상
 https://github.com/user-attachments/assets/745755b9-4d4a-40c2-aa07-4b16113af618
 
-## 수상
-<img src="https://github.com/user-attachments/assets/5f22e056-6e9e-4ad2-a2d6-68c2dd853cb7" width="500"/>
-<img src="https://github.com/user-attachments/assets/213a69a6-a3c6-4bad-ac0a-90e3bf63a4a3" width="350"/>
-
+## 🏆 수상
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f22e056-6e9e-4ad2-a2d6-68c2dd853cb7" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/213a69a6-a3c6-4bad-ac0a-90e3bf63a4a3" width="49%"/>
+</p>
